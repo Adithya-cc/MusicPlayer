@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>music-player-app-style_23-2148512850.jpg</file>
+    <file>Pause.png</file>
+  </qresource>
+</RCC>
